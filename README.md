@@ -78,12 +78,7 @@
 
 ![Trofeos](https://github-profile-trophy.vercel.app/?username=antinaosDev\&theme=onedark\&no-frame=true\&column=4)
 
----
-
-## 🐍 Animación de contribuciones
-
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=antinaosDev&show_icons=true&theme=radical)
-
+me=radical)
 
 
 ---
