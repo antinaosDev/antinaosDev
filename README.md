@@ -82,7 +82,8 @@
 
 ## 🐍 Animación de contribuciones
 
-![snake gif](https://raw.githubusercontent.com/antinaosDev/antinaosDev/output/github-contribution-grid-snake.svg)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=antinaosDev&show_icons=true&theme=radical)
+
 
 
 ---
