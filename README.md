@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="Gemini_Generated_Image_ay0gx6ay0gx6ay0g.png" alt="icono animado" width="120"/>
-</p>
-
-# 👋 Hola, soy **antinaosDev**
+# <img src="Gemini_Generated_Image_ay0gx6ay0gx6ay0g.png" alt="icono animado" width="50" style="vertical-align: middle;"/> 👋 Hola, soy **antinaosDev**
 
 🎓 **Doctor en Sostenibilidad** · 📊 **Mg. SIGC** · 🏗️ **Ingeniero Civil Ambiental** · 🧪 **Data Scientist**
 
@@ -94,4 +90,3 @@
 
 © 2025 Alain Antinao. Todos los derechos reservados.  
 🌎 Recursos Descargables: [Capas SIG y Recursos Compartidos](https://www.notion.so/Capas-SIG-y-Recursos-Compartidos-1d80a081d9a98019b26be783c4babe30?pvs=21)
-
