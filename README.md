@@ -6,10 +6,12 @@
 
 ---
 
-## 🔗 Conecta conmigo
+## 🔗 Link portafolio
 [![Streamlit](https://img.shields.io/badge/Streamlit%20Apps-FF4B4B?logo=streamlit&logoColor=white)](https://share.streamlit.io/user/antinaosdev)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/antinaosDev)
 [![Email](https://img.shields.io/badge/Email-alain.antinao.s%40gmail.com-informational)](mailto:alain.antinao.s@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)](https://alain-antinao-s.notion.site/Alain-C-sar-Antinao-Sep-lveda-1d20a081d9a980ca9d43e283a278053e)
+
 
 ---
 
