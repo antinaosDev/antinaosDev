@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Gemini_Generated_Image_ay0gx6ay0gx6ay0g.png" alt="icono animado" width="120"/>
+</p>
+
 # 👋 Hola, soy **antinaosDev**
 
 🎓 **Doctor en Sostenibilidad** · 📊 **Mg. SIGC** · 🏗️ **Ingeniero Civil Ambiental** · 🧪 **Data Scientist**
@@ -7,8 +11,8 @@
 ---
 
 ## 🔗 Conecta conmigo
-[![Streamlit](https://img.shields.io/badge/Streamlit%20Apps-FF4B4B?logo=streamlit\&logoColor=white)](https://share.streamlit.io/user/antinaosdev)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github\&logoColor=white)](https://github.com/antinaosDev)
+[![Streamlit](https://img.shields.io/badge/Streamlit%20Apps-FF4B4B?logo=streamlit&logoColor=white)](https://share.streamlit.io/user/antinaosdev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/antinaosDev)
 [![Email](https://img.shields.io/badge/Email-alain.antinao.s%40gmail.com-informational)](mailto:alain.antinao.s@gmail.com)
 
 ---
@@ -62,34 +66,32 @@
 
 ## 🧰 Tech Stack
 
-**Lenguajes:** Python · SQL · R
-**Datos & ML:** Pandas · NumPy · Scikit-learn · MLflow · XGBoost
-**Viz:** Matplotlib · Seaborn · Plotly
-**Gestión:** Git/GitHub · DVC · Prefect · Excel VBA
-**Otros:** SPSS · Jupyter · Anaconda
+**Lenguajes:** Python · SQL · R  
+**Datos & ML:** Pandas · NumPy · Scikit-learn · MLflow · XGBoost  
+**Viz:** Matplotlib · Seaborn · Plotly  
+**Gestión:** Git/GitHub · DVC · Prefect · Excel VBA  
+**Otros:** SPSS · Jupyter · Anaconda  
 
 ---
 
 ## 🏆 Métricas
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=antinaosDev\&show_icons=true\&hide_border=true\&count_private=true\&include_all_commits=true\&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=antinaosDev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=antinaosDev\&layout=compact\&hide_border=true\&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=antinaosDev&layout=compact&hide_border=true&theme=radical)
 
-![Trofeos](https://github-profile-trophy.vercel.app/?username=antinaosDev\&theme=onedark\&no-frame=true\&column=4)
-
-me=radical)
-
+![Trofeos](https://github-profile-trophy.vercel.app/?username=antinaosDev&theme=onedark&no-frame=true&column=4)
 
 ---
 
 ## 📬 Contacto
 
-📧 **Email:** [alain.antinao.s@gmail.com](mailto:alain.antinao.s@gmail.com)
-💼 **GitHub:** [antinaosDev](https://github.com/antinaosDev)
-🌍 Ubicado en Chile — Disponible para colaboraciones internacionales
+📧 **Email:** [alain.antinao.s@gmail.com](mailto:alain.antinao.s@gmail.com)  
+💼 **GitHub:** [antinaosDev](https://github.com/antinaosDev)  
+🌍 Ubicado en Chile — Disponible para colaboraciones internacionales  
 
 ---
 
-© 2025 Alain Antinao. Todos los derechos reservados.
+© 2025 Alain Antinao. Todos los derechos reservados.  
 🌎 Recursos Descargables: [Capas SIG y Recursos Compartidos](https://www.notion.so/Capas-SIG-y-Recursos-Compartidos-1d80a081d9a98019b26be783c4babe30?pvs=21)
+
