@@ -1,6 +1,6 @@
 <!-- Encabezado con banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B4B,100:1E90FF&height=200&section=header&text=Hola%20👋%20Bienvenido%20a%20mi%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B4B,100:1E90FF&height=200&section=header&text=Bienvenido%20a%20mi%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 ---
