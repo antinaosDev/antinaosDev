@@ -5,7 +5,7 @@
 
 ---
 
-# <img src="Gemini_Generated_Image_ay0gx6ay0gx6ay0g.png" alt="icono animado" width="75" style="vertical-align: middle;"/> 👋 Hola, soy **Alain**
+# <img src="Gemini_Generated_Image_ay0gx6ay0gx6ay0g.png" alt="icono animado" width="75" style="vertical-align: middle;"/> 👋 Hola, Bienvenido a mi GitHub
 
 🎓 **Doctor en Sostenibilidad** · 📊 **Mg. SIGC** · 🏗️ **Ingeniero Civil Ambiental** · 🧪 **Data Scientist**
 
@@ -82,7 +82,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
