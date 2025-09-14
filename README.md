@@ -1,11 +1,11 @@
 <!-- Encabezado con banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B4B,100:1E90FF&height=200&section=header&text=Hola%20👋%20soy%20Alain%20A.S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B4B,100:1E90FF&height=200&section=header&text=Hola%20👋%20soy%20Bienvenido%20a%20mi%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 ---
 
-# <img src="Gemini_Generated_Image_ay0gx6ay0gx6ay0g.png" alt="icono animado" width="75" style="vertical-align: middle;"/> 👋 Hola, Bienvenido a mi GitHub
+# <img src="Gemini_Generated_Image_ay0gx6ay0gx6ay0g.png" alt="icono animado" width="75" style="vertical-align: middle;"/> 👋 Hola, Soy *Alain*
 
 🎓 **Doctor en Sostenibilidad** · 📊 **Mg. SIGC** · 🏗️ **Ingeniero Civil Ambiental** · 🧪 **Data Scientist**
 
