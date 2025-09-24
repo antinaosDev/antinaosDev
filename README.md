@@ -53,7 +53,7 @@
 ## 💼 Experiencia Profesional
 
 🏥 **Jefe Técnico – CESFAM Cholchol** (2023 – Actualidad)  
-🏛️ **Ingeniero de Proyectos (2020 – 2023)** (2020 – 2023)  
+🏛️ **Ingeniero de Proyectos** (2020 – 2023)  
 🔬 **Investigador – Universidad de La Frontera (FONDEF)** (2018 – 2019)  
 
 ---
