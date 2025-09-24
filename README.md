@@ -5,7 +5,7 @@
 
 ---
 
-# <img src="Gemini_Generated_Image_ay0gx6ay0gx6ay0g.png" alt="icono animado" width="75" style="vertical-align: middle;"/> 👋 Hola, Soy *Alain*
+# <img src="avatar_aas.png" alt="icono animado" width="75" style="vertical-align: middle;"/> 👋 Hola, Soy *Alain*
 
 🎓 **Doctor en Sostenibilidad** · 📊 **Mg. SIGC** · 🏗️ **Ingeniero Civil Ambiental** · 🧪 **Data Scientist**
 
