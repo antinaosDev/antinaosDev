@@ -46,7 +46,7 @@
 🎓 Magíster en Sistemas Integrados de Gestión — *Universidad Viña del Mar, 2019 - 2021*  
 🎓 Diplomado en Gestión Ambiental — *Universidad Andrés Bello, 2019*  
 🎓 Ingeniero Civil Ambiental — *Universidad de La Frontera, 2012 - 2018*  
-💻 Carrera Data Science — *Desafío Latam, 2024*  
+💻 Data Scientist — *Desafío Latam, 2024*  
 
 ---
 
